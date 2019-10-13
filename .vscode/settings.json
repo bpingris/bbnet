@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/benoit/Work/Perso/ml/neural-network/bbnet/env/bin/python3.7",
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+}
