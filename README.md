@@ -1,9 +1,9 @@
 Sources:
-https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e
-http://hmkcode.com/ai/backpropagation-step-by-step/
-https://www.quora.com/What-happens-if-no-activation-function-is-used-in-the-hidden-layers-of-a-neural-network
-https://github.com/zHaytam/FlexibleNeuralNetFromScratch/blob/master/neural_network.py
-https://blog.zhaytam.com/2018/08/15/implement-neural-network-backpropagation/
+- https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e
+- http://hmkcode.com/ai/backpropagation-step-by-step/
+- https://www.quora.com/What-happens-if-no-activation-function-is-used-in-the-hidden-layers-of-a-neural-network
+- https://github.com/zHaytam/FlexibleNeuralNetFromScratch/blob/master/neural_network.py
+- https://blog.zhaytam.com/2018/08/15/implement-neural-network-backpropagation/
 
 Back Propagation (Gradient computation)
 The backpropagation learning algorithm can be divided into two phases: propagation and weight update.
